@@ -38,3 +38,7 @@ Ninguna entidad puede controlar más del **10%** del poder de voto total.
 Las transferencias de SYNA tienen **7 días de cooldown**. Durante ese período, no pueden transferirse nuevamente ni usarse en gobernanza.
 
 > "El token está diseñado para circular lentamente, como el conocimiento que representa."
+
+---
+
+**Nota de autoridad**: Los mecanismos anti-especulación protegen el ecosistema de manipulación externa, pero el control estratégico de Synexis Asset permanece bajo la autoridad de CIDCITEI General Trading LLC y Mauro Manuel Herrera Mendoza. La gobernanza comunitaria gestiona parámetros operativos; las decisiones fundamentales son reservadas a CIDCITEI."
