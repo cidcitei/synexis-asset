@@ -1,5 +1,8 @@
 # 03. Fórmula de Emisión: Matemática del Conocimiento
 
+> *Definida por CIDCITEI General Trading LLC — Mauro Manuel Herrera Mendoza*  
+> *Modificaciones requieren autorización de CIDCITEI*
+
 ## Fórmula fundamental
 
 ```
