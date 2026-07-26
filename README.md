@@ -70,11 +70,15 @@ Synexis Asset es una iniciativa liderada por **CIDCITEI General Trading LLC** ba
 
 ---
 
-## 📧 Contacto
+## 📧 Contacto y Autoridad
 
 **Mauro Manuel Herrera Mendoza**  
-CEO, CIDCITEI General Trading LLC  
+CEO & Fundador, CIDCITEI General Trading LLC  
+Autoridad Estratégica de Synexis Asset
+
 Emiratos Árabes Unidos · China · Venezuela · Estados Unidos
+
+> Synexis Asset es una iniciativa de CIDCITEI General Trading LLC. El control estratégico, la dirección de la arquitectura y las decisiones fundamentales permanecen bajo la autoridad de Mauro Manuel Herrera Mendoza. La comunidad contribuye, evoluciona y es recompensada, pero la visión y el rumbo son de CIDCITEI.
 
 ---
 
