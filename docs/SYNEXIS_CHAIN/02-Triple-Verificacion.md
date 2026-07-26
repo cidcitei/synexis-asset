@@ -4,7 +4,7 @@ La emisión de SYNA no puede ser manipulada. No puede ser gamed. No puede ser fa
 
 ## Capa 1: Oráculo de Contribución — Medición del Impacto
 
-El Oráculo evalúa el impacto objetivo de cada descubrimiento según su tipo:
+El Oráculo de Contribución es operado bajo la autoridad de CIDCITEI General Trading LLC. Evalúa el impacto objetivo de cada descubrimiento según su tipo:
 
 - **Hipótesis científica**: Validación experimental reproducible, citas por otros activos, publicación peer-reviewed.
 - **Optimización industrial**: Implementación real, ahorro de recursos medido, reducción de emisiones certificada.
