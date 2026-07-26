@@ -1,5 +1,8 @@
 # 01. Manifiesto del Descubrimiento
 
+> *Documento fundacional de Synexis Asset — CIDCITEI General Trading LLC*  
+> *Mauro Manuel Herrera Mendoza*
+
 En la mayoría de las blockchains, los tokens existen antes del valor. Se minan, se pre-venden, se especulan. El valor, si llega, llega después.
 
 En Synexis Chain, invertimos esa lógica: **el valor existe antes del token**. El conocimiento se genera, se verifica, se certifica. Y solo entonces — cuando hay evidencia irrefutable de que la humanidad avanzó — se mintea el token que representa ese avance.
