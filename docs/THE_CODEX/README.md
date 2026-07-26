@@ -1,6 +1,6 @@
 # THE CODEX: SYNEXIS ASSET
 
-> La Infraestructura Mundial de Activos Inteligentes
+> La Infraestructura Activos Inteligentes
 
 THE CODEX es el documento maestro que define la filosofía, arquitectura, ecosistema, economía, plataforma y futuro de Synexis Asset.
 
@@ -10,7 +10,7 @@ THE CODEX es el documento maestro que define la filosofía, arquitectura, ecosis
 Los principios que dan origen a una nueva categoría tecnológica.
 
 - Capítulo 1: El nacimiento de Synexis Asset
-- Capítulo 2: La Infraestructura Mundial de Activos Inteligentes
+- Capítulo 2: La Infraestructura Activos Inteligentes
 - Capítulo 3: La Filosofía Synexis
 - Capítulo 4: La Teoría del Activo Inteligente
 - Capítulo 5: La evolución de la economía del conocimiento
