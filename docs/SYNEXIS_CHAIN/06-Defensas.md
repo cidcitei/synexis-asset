@@ -32,3 +32,7 @@
 - **Una blockchain sin tokens sigue siendo una blockchain**
 
 > "La seguridad de Synexis Chain no depende de la criptografía sola. Depende de que atacarla sea más costoso que contribuir legítimamente."
+
+---
+
+**Protección estratégica**: En caso de ataque coordinado masivo o emergencia crítica, CIDCITEI General Trading LLC y Mauro Manuel Herrera Mendoza retienen la autoridad para activar medidas de protección extraordinarias, incluyendo la suspensión temporal de emisión, la modificación de parámetros de defensa, y la intervención directa en la gobernanza para preservar la integridad del ecosistema. Estas medidas son de último recurso y están documentadas en el protocolo de emergencia de CIDCITEI."
