@@ -1,6 +1,6 @@
 # 05. Gobernanza del Conocimiento
 
-En Synexis Chain, la gobernanza no es una democracia de capital. Es una meritocracia de descubrimiento.
+En Synexis Chain, la gobernanza operativa no es una democracia de capital. Es una meritocracia de descubrimiento. Sin embargo, el control estratégico, la dirección de la arquitectura y las decisiones fundamentales del proyecto permanecen bajo la autoridad de **CIDCITEI General Trading LLC**, liderada por Mauro Manuel Herrera Mendoza. La gobernanza comunitaria gestiona parámetros técnicos y operativos; las decisiones constitucionales y estratégicas son reservadas a CIDCITEI.
 
 ## Niveles de Gobernanza
 
@@ -14,10 +14,13 @@ En Synexis Chain, la gobernanza no es una democracia de capital. Es una meritocr
 - Quorum: 30% de IC total
 - Aprobación: 66%
 
-### Nivel 3: Constitucional (IC > 1,500,000 + mínimo 1 descubrimiento II > 500)
+### Nivel 3: Constitucional (Reservado a CIDCITEI)
 - Fórmula de emisión, hard cap, mecanismos anti-especulación
-- Quorum: 45% de IC total
-- Aprobación: 75% + 60% de validadores
+- Cambios en la arquitectura fundamental del Motor Universal
+- Adición o eliminación de Dominios de Inteligencia
+- Fusión con otras infraestructuras
+- **Decisión final**: CIDCITEI General Trading LLC / Mauro Manuel Herrera Mendoza
+- La comunidad puede proponer; CIDCITEI decide.
 
 ## Consejo de Guardianes del Conocimiento
 
