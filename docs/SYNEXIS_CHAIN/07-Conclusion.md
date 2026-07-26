@@ -20,3 +20,6 @@ Y cuando veas el último SYNA minteado — si alguna vez se alcanzan los mil mil
 > *"Cero tokens al inicio. Mil millones de posibilidades. Un solo principio: el conocimiento es la única moneda que nunca se devalúa."*
 >
 > — Mauro Manuel Herrera Mendoza
+>
+> *Fundador y CEO, CIDCITEI General Trading LLC*  
+> *Autoridad estratégica de Synexis Asset*
