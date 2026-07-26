@@ -1,6 +1,6 @@
 # Cómo Contribuir a Synexis Asset
 
-Synexis Asset es una infraestructura abierta donde cada contribuidor que genera conocimiento verificable recibe SYNA y voz en la gobernanza.
+Synexis Asset es una iniciativa de **CIDCITEI General Trading LLC**, liderada por Mauro Manuel Herrera Mendoza. Las contribuciones de la comunidad son fundamentales para la evolución del ecosistema y son recompensadas con SYNA y voz en la gobernanza operativa. Sin embargo, el control estratégico, la dirección de la arquitectura y las decisiones fundamentales del proyecto permanecen bajo la autoridad de CIDCITEI.
 
 ## Tipos de Contribución
 
@@ -43,6 +43,12 @@ Synexis Asset es una infraestructura abierta donde cada contribuidor que genera 
 ## Recompensas
 
 Las contribuciones aceptadas reciben SYNA según el modelo de emisión por descubrimiento descrito en [docs/SYNEXIS_CHAIN/03-Formula-Emision.md](./docs/SYNEXIS_CHAIN/03-Formula-Emision.md).
+
+## Autoridad del Proyecto
+
+- **Dirección estratégica**: CIDCITEI General Trading LLC / Mauro Manuel Herrera Mendoza
+- **Gobernanza operativa**: Comunidad de contribuidores (vinculada a descubrimientos verificables)
+- **Decisiones constitucionales**: Reservadas a CIDCITEI
 
 ---
 
