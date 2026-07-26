@@ -1,6 +1,6 @@
 # SYNEXIS ASSET
 
-> La Infraestructura Mundial de Activos Inteligentes
+> La Infraestructura Activos Inteligentes
 
 **Synexis Asset** transforma activos del mundo real en **Activos Inteligentes evolutivos**: entidades digitales con identidad propia, historia certificada, capacidad de simulación y relaciones interconectadas mediante inteligencia artificial.
 
