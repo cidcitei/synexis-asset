@@ -79,3 +79,22 @@ Emiratos Árabes Unidos · China · Venezuela · Estados Unidos
 ---
 
 *"Cero tokens al inicio. Mil millones de posibilidades. Un solo principio: el conocimiento es la única moneda que nunca se devalúa."*
+
+
+---
+
+## 📊 Modelo Económico
+
+![Synexis Chain Economic Model](./assets/synexis-chain-economia.png)
+
+---
+
+## 🌐 Repositorio
+
+- **GitHub**: https://github.com/cidcitei/synexis-asset
+- **Licencia**: MIT (código) + CC BY-SA 4.0 (documentos)
+- **Estado**: Activo desarrollo
+
+---
+
+*Documento maestro generado el 25 de julio de 2026*
